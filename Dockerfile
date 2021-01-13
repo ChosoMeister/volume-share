@@ -1,5 +1,5 @@
 FROM dperson/samba
-MAINTAINER chosomeister@gmail.com
+MAINTAINER site-github@guidodiepen.nl
 
 VOLUME ["/etc/samba"]
 
