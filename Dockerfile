@@ -1,4 +1,4 @@
-FROM ChosoMeister/volume-share
+FROM chosomeister/volume-share
 MAINTAINER ChosoMeister@gmail.com
 
 VOLUME ["/etc/samba"]
